@@ -1,4 +1,0 @@
-INDEX VERSION 1.131+D:\my data\project_online_property_sale\Online_property_sale\.metadata\.plugins\org.eclipse.jdt.core
-1865797976.index
-2050977757.index
-895689772.index
